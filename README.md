@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Analyst Portfolio
 
-Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **Phishing Investigation**, **Network Analysis**, **Endpoint Hardening**, **Log Analysis** and **Event Management**, demonstrating my application of skills in realistic environments.
+Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis** and **event management**, demonstrating my application of skills in realistic environments.
 
 ## 📂 About This Portfolio
 
