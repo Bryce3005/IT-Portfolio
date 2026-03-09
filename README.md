@@ -7,7 +7,7 @@ Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases pro
 This portfolio includes projects from various certification programs, including **Comptia**, **Blue-Team-Level 1**, and other platforms with tools such as:
 
 - **Wireshark**, **Snort** — for network security and log analysis 
-- **Kali Linux**, — for data extraction and additional information 
+- **Kali Linux** — for data extraction and additional information 
 - **CommandLine**, **Bash** — for windows data collection and process automation  
 - **Virustotal**, **Hybrid Analysis**, **WHOIS**, **VirtualBox** — for malware analysis and sandboxing  
 - **Autopsy** — for analyzing hardrive images  
@@ -51,10 +51,10 @@ Always available for questions, productive discussion and learning and career op
 
 ## ⚡️ Future Projects
 
-This portfolio is constantly growing. New projects and practical labs are added every month, as I advance my knowledge and skillset in the cybersecurity field. Stay tuned for more advanced projects outside of SOC level 1, like **Pen Testing**, **cloud security**, **OSINT**, **scripting** and **automation**.
+This portfolio is constantly growing. New projects and practical labs are added every month, as I advance my knowledge and skillset in the cybersecurity field. Stay tuned for more advanced projects outside of SOC level 1, like **pen testing**, **cloud security**, **OSINT**, **scripting** and **automation**.
 
 ---
 
 ## 💡 About Me
 
-I am dedicated to expanding my knowledge in cybersecurity through **securing systems**, **malware analysis**, and **enhancing enterprise security**. With the complete foundation I have built in cybersecurity and IT, I am dialed in on aiding organizations in mitigating risk and reducing security threats. I’m ready to utilize my skillset to engage in security threats in high stakes environments.
+I am dedicated to expanding my knowledge in cybersecurity through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the complete foundation I have built in cybersecurity and IT, I am dialed in on aiding organizations in mitigating risk and reducing security threats. I’m ready to utilize my skillset to engage in security threats in high stakes environments.
