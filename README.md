@@ -1,76 +1,60 @@
 # 🛡️ Cybersecurity Analyst Portfolio
 
-Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases a variety of hands-on projects and real-world labs from cybersecurity certifications and personal studies. The portfolio highlights practical skills in **network defense**, **incident response**, **cloud security**, and **governance, risk, and compliance (GRC)**, demonstrating my technical expertise and problem-solving capabilities.
+Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **Phishing Investigation**, **Network Analysis**, **Endpoint Hardening**, **Log Analysis** and **Event Management**, demonstrating my application of skills in realistic environments.
 
 ## 📂 About This Portfolio
 
-This portfolio features projects completed as part of multiple certification programs, including **Google**, **Microsoft**, and other self-directed learning, with tools such as:
+This portfolio includes projects from various certification programs, including **Comptia**, **Blue-Team-Level 1**, and other platforms with tools such as:
 
-- **Wireshark**, **Nmap** — for network security and vulnerability analysis  
-- **Kali Linux**, **Metasploit** — for penetration testing and ethical hacking  
-- **Python**, **Bash** — for automation and scripting  
-- **Microsoft Defender**, **Wazuh**, **Suricata**, **Splunk**, **Azure AD** — for threat detection, endpoint security, and cloud IAM  
-- **SQL** — for database security and queries  
-- **SIEM systems** — for security event monitoring and incident response
+- **Wireshark**, **Snort** — for network security and log analysis 
+- **Kali Linux**, — for data extraction and additional information 
+- **CommandLine**, **Bash** — for windows data collection and process automation  
+- **Virustotal**, **Hybrid Analysis**, **WHOIS**, **VirtualBox** — for malware analysis and sandboxing  
+- **Autopsy** — for analyzing hardrive images  
+- **Splunk**, **Elastic Stack** — for security event monitoring and incident response
 
 This portfolio is designed to showcase:
 
-- Security risk audits and assessments  
+- Phishing Analysis 
 - Threat analysis and incident response  
-- Network security design and monitoring  
-- Identity and access management using Azure Active Directory  
-- Hands-on use of tools like Wireshark, Nmap, Microsoft Defender, and SQL  
-- Scripting automation tasks using Python  
-- Governance, risk, and compliance strategies  
-- A comprehensive capstone project proposal for securing enterprise infrastructure
+- Network Traffic and Log Analysis  
+- Identity and access management using Active Directory on Windows Server 2022 
+- Use of tools like Wireshark, Splunk, Snort and Web tools  
+- Extracting artifacts from malicious programs using Kali Linux  
+- Mitigation and Remediation Strategies 
+- Defensive measures for network and endpoint security
 
-The portfolio also covers practical case studies in **security operations centers (SOC)**, **incident handling**, **vulnerability management**, and more. Each project includes **documentation**, **screenshots**, **code samples**, and **brief reports** to demonstrate methodology and technical decision-making.
-
----
-
-## 🧰 Tools & Technologies
-
-- **Network Security**: Wireshark, Nmap, Snort
-- **Penetration Testing**: Kali Linux, Metasploit, Burp Suite
-- **Cloud Security**: Microsoft Azure, AWS
-- **Threat Detection**: Microsoft Defender, Splunk
-- **Scripting & Automation**: Python, Bash
-- **SIEM**: Splunk, Azure Sentinel
-- **Incident Response**: Splunk, Python
-- **Identity & Access Management**: Azure AD, Okta
-- **Database Security**: SQL, MySQL
+The portfolio also covers real life scenarios in **security operations centers (SOC)**, **Alerts**, **Event Triage**, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision making.
 
 ---
 
 ## 📈 Learning & Certifications
 
-- **Google Cybersecurity Analyst Professional Certificate** (Coursera)
-- **Microsoft Cybersecurity Analyst Professional Certificate** (Coursera)
-- Additional certifications and courses to be added as I continue to grow my skills.
-
----
-
-### 🧼 Personal Cyber Hygiene Audit Tool
-🔗 [GitHub Repo](https://github.com/Ecbrendan/Cybersecurity-Portfolio/tree/main/3MTT-Cybersecurity-Program/Personal%20Cyber%20Hygiene%20Audit%20Tool)  
-📄 A self-assessment Python tool for evaluating personal cybersecurity habits, generating scores, and tailored recommendations. Created as part of 3MTT Cybersecurity training.
-
+- **Comptia A+** 
+- **Comptia Network+**
+- **Comptia Security+**
+- **Comptia Network+**
+- **Blue Team Level 1**
+- **Comptia Cysa+** - In progress
+  
 ---
 
 ## 🧑‍💻 Contact
 
-- LinkedIn: [Ediomo Brendan](https://linkedin.com/in/ediomobrendan)
-- Email: brendanediomo@gmail.com
+- LinkedIn: [Bryce Falker](www.linkedin.com/in/bryce-falker)
+- Email: brycefalker3005@gmail.com
+- Phone: (832)-348-9780
 
-Feel free to reach out if you have any questions or would like to discuss cybersecurity trends, methodologies, or career opportunities.
+Always available for questions, productive discussion and learning and career opportunities!
 
 ---
 
 ## ⚡️ Future Projects
 
-This portfolio is continually evolving. New projects will be added regularly, as I continue to learn and grow in the cybersecurity field. Stay tuned for more advanced projects in **red teaming**, **cloud security**, and **automation**.
+This portfolio is constantly growing. New projects and practical labs are added every month, as I advance my knowledge and skillset in the cybersecurity field. Stay tuned for more advanced projects outside of SOC level 1, like **Pen Testing**, **cloud security**, **OSINT**, **scripting** and **automation**.
 
 ---
 
 ## 💡 About Me
 
-I am passionate about **securing systems**, **automating workflows**, and **enhancing enterprise security**. With a strong foundation in both theoretical and practical cybersecurity skills, I am focused on helping organizations mitigate risks and defend against cyber threats. I’m eager to apply my knowledge to tackle challenging security issues in real-world environments.
+I am dedicated to expanding my knowledge in cybersecurity through **securing systems**, **malware analysis**, and **enhancing enterprise security**. With the complete foundation I have built in cybersecurity and IT, I am dialed in on aiding organizations in mitigating risk and reducing security threats. I’m ready to utilize my skillset to engage in security threats in high stakes environments.
