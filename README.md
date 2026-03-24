@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Analyst Portfolio
 
-Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis** and **event management**, demonstrating my application of skills in realistic environments.
+Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis**, **event management** and ** IT troubleshooting**, demonstrating my application of skills in realistic environments.
 
 ## 📂 About This Portfolio
 
@@ -23,6 +23,8 @@ This portfolio is designed to showcase:
 - Extracting artifacts from malicious programs using Kali Linux  
 - Mitigation and Remediation Strategies 
 - Defensive measures for network and endpoint security
+- Hardware and software troubleshooting
+- Help Desk ticket management 
 
 The portfolio also covers real life scenarios in **security operations centers (SOC)**, **Alerts**, **Event Triage**, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision making.
 
