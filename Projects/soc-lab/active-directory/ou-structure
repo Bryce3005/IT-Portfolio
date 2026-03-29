@@ -1,0 +1,61 @@
+# Organizational Unit (OU) Structure
+
+## 📌 Overview
+This Active Directory environment is structured using Organizational Units (OUs) to reflect a typical enterprise organizational hierarchy. Each OU represents a department and is used to apply role-based access control and Group Policy Objects (GPOs).
+
+## 🧱 OU Design
+
+The domain is organized into the following OUs:
+
+- ADMINS
+- Executives
+- Finance
+- HR
+- IT
+- Marketing
+- Operations
+- Sales
+
+Each OU contains:
+- User accounts
+- Security groups
+- Department-specific policies
+
+## 🧠 Design Objectives
+
+- Separate users by department
+- Apply targeted security policies using GPOs
+- Support least privilege access control
+- Simplify administration and policy enforcement
+
+## 🔐 Security Groups
+
+Each OU includes security groups used for:
+- Role-based access control (RBAC)
+- Permission assignment to resources
+- Managing administrative privileges
+
+Examples:
+- Finance_Users
+- HR_Users
+- IT_Admins
+- Sales_Users
+
+## ⚙️ Group Policy Application
+
+Group Policy Objects (GPOs) are linked to each OU to enforce security configurations based on department requirements.
+
+Examples:
+- ADMINS: Enhanced logging and monitoring
+- Executives: Restricted system access and enforced screen lock
+- Finance: File auditing and removable media restrictions
+- IT: Advanced logging with fewer restrictions
+
+## 🔍 Benefits of OU Structure
+
+- Centralized management of users and policies
+- Scalable design for adding new departments
+- Improved security through policy segmentation
+- Easier troubleshooting and administration
+
+## 🖥️ Example Hierarchy
