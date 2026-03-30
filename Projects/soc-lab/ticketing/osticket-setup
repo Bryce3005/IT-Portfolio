@@ -3,7 +3,7 @@
 ## 📌 Overview
 This document outlines the setup and configuration of the ticketing system used in this SOC lab.
 
-The environment uses :contentReference[oaicite:0]{index=0} to simulate a help desk and incident response workflow by converting security alerts into trackable tickets.
+The environment uses osticket to simulate a help desk and incident response workflow by converting security alerts into trackable tickets.
 
 ---
 
@@ -17,8 +17,8 @@ The environment uses :contentReference[oaicite:0]{index=0} to simulate a help de
 
 ### ⚙️ Steps
 1. Installed Apache, PHP, and MySQL
-2. Downloaded osTicket from official source
-3. Placed files in web server directory (e.g., `htdocs`)
+2. Downloaded osTicket
+3. Moved files into web server directory (htdocs)
 4. Completed web-based installation wizard
 5. Configured database connection
 
@@ -61,7 +61,7 @@ The environment uses :contentReference[oaicite:0]{index=0} to simulate a help de
 
 ## 🔁 Alert Integration
 
-Security alerts from :contentReference[oaicite:1]{index=1} are sent via email to the configured mailbox.
+Security alerts from Splunk are sent via email to the configured mailbox.
 
 ### Workflow:
 1. Splunk alert triggers
@@ -76,7 +76,7 @@ Security alerts from :contentReference[oaicite:1]{index=1} are sent via email to
 ### Features Configured:
 - Automatic ticket creation from email
 - Ticket assignment (optional)
-- Priority settings based on alert severity
+- Priority based on alert severity
 
 ### Example Use Cases:
 - Brute force detection → Security incident ticket
@@ -117,4 +117,4 @@ To verify functionality:
 ---
 
 ## 🧾 Notes
-This setup simulates a real-world SOC workflow where alerts are automatically converted into incidents for investigation and resolution.
+This setup simulates a real-world SOC workflow where alerts are converted into incidents for investigation and resolution.
