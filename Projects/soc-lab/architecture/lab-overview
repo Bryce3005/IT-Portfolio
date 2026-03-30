@@ -53,8 +53,8 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 - Brute force login attempts  
 - Password spraying  
 - Detection mapped to:  
-  - :contentReference[oaicite:0]{index=0}  
-  - :contentReference[oaicite:1]{index=1}  
+  - Technique: T1110.001 – Password Guessing
+  - Technique: T1110.003 – Password Spraying
 
 ---
 
@@ -71,7 +71,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 - Malicious PowerShell execution  
 - Script obfuscation  
 - Mapped to:
-  - :contentReference[oaicite:2]{index=2}  
+  - Technique: T1059.001 – Powershell  
 
 ---
 
@@ -79,7 +79,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 - Creation of scheduled tasks  
 - New user accounts  
 - Mapped to:
-  - :contentReference[oaicite:4]{index=4}  
+  - Technique: T1136.002 – Valid Accounts
 
 ---
 
@@ -117,4 +117,3 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 📁 Repository Structure
