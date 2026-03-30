@@ -1,1 +1,98 @@
+# SOC Lab Overview
 
+**Author:** Bryce Falker  
+**Last Updated:** 2026-03-28  
+**Lab Type:** IT Help Desk
+**Environment:** Virtualized Lab (VirtualBox)
+
+---
+
+## 🎯 Purpose of This Lab
+
+This lab is intended to emulate real-world troubleshooting and common IT problems:
+- Software and Application bugs
+- Account and Access Issues
+- Hardware Issues
+- Network and Connectivity problems
+- User errors 
+- Simple security issues
+
+The purpose is to build hands-on experience addressing everyday IT issues within a simulated enterprise environment.
+
+---
+
+## 🏗️ Lab Architecture
+
+**Components:**
+- Windows 10 Client
+- Windows Server
+
+ 
+
+**Network Layout:**
+- Internal network (isolated)
+- NAT or host-only networking
+
+---
+
+## 🧰 Tools Used
+
+- Remote Desktop Protocol (RDP)
+- Task Manager 
+- Command Line
+
+---
+
+## 🧪 Troubleshooting Scenarios Simulated
+
+### 1. Account Login
+- User cannot log in
+- User locked out of the system
+- New users cannot access shared drives or email
+- Access Denied when opening a file
+
+---
+
+### 2. Hardware Malfunction
+- Computer is running slow  
+- Device doesn't connect to the Internet  
+- Can't access the printer
+- Monitor doesn't display anything 
+
+---
+
+### 3. Network Misconfiguration
+- User cannot access websites but internet is connected  
+- VPN isn't working
+
+---
+
+### 4. Down Communications 
+- User isn't recieving emails  
+- User cannot send emails
+- Email signature not present
+
+---
+
+### 5. Application Errors 
+- Application won't open or crashes on launch 
+- User cannot install software
+- Application Unresponsive  
+
+---
+
+### 6. User Mistakes
+- User accidentally deletes file  
+- User cannot find saved file 
+- User Interface changes after update 
+
+---
+
+## 🧠 Resolution Strategy
+- Gather information to help in initial assessment
+- Troubleshoot the issue at hand
+- Document the process
+- Escalate the issue further if problems reoccur or resolution isn't made
+
+---
+ 
