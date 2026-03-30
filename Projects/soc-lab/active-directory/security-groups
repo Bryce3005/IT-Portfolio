@@ -1,0 +1,152 @@
+# Security Groups
+
+## 📌 Overview
+Security groups are used in this environment to manage access control and permissions within the domain. They allow centralized administration and support role-based access control (RBAC).
+
+Each department OU contains its own security groups, which are utilized to give permissions to resources and apply least privilege.
+
+---
+
+## 🧠 Design Foundation
+
+- Role-Based Access Control (RBAC)
+- Least Privilege Access
+- Centralized Permission Management
+- Separation of Responsibilities
+
+---
+
+## 🏢 Group Structure by OU
+
+### 🔐 ADMINS OU
+
+#### Groups:
+- Domain_Admins
+- IT_Admins
+
+#### Application:
+- Complete administrative control over domain services
+- Manage users, systems, and policies
+
+---
+
+### 💼 EXECUTIVES OU
+
+#### Groups:
+- Executive_Users
+
+#### Application:
+- Standard user access with added security enforcement
+- Limited system-level permissions
+
+---
+
+### 💰 FINANCE OU
+
+#### Groups:
+- Finance_Users
+- Finance_Managers
+
+#### Application:
+- Access to financial resources and needed services
+- Seperation between normal users and managers
+
+---
+
+### 🧑‍💼 HR OU
+
+#### Groups:
+- HR_Users
+- HR_Managers
+
+#### Application:
+- Access to employee records and HR services
+- Restricted to authorized personnel only
+
+---
+
+### 🛠️ IT OU
+
+#### Groups:
+- IT_Users
+- IT_Support
+- IT_Admins
+
+#### Application:
+- System administration and support roles
+- Increased permissions for troubleshooting and maintenance
+
+---
+
+### 📢 MARKETING OU
+
+#### Groups:
+- Marketing_Users
+
+#### Application:
+- Access to shared marketing resources
+- Standard user permissions
+
+---
+
+### ⚙️ OPERATIONS OU
+
+#### Groups:
+- Operations_Users
+
+#### Application:
+- Access to operational systems and tools
+- Limited modification access
+
+---
+
+### 💼 SALES OU
+
+#### Groups:
+- Sales_Users
+- Sales_Managers
+
+#### Application:
+- Access to sales tools and customer data
+- Role separation between users and managers
+
+---
+
+## 🔗 Group Utilization
+
+Security groups are used to:
+
+- Assign NTFS permissions to shared folders
+- Manage access to network resources
+- Delegate administrative privileges
+- Apply Group Policy filtering (where needed)
+
+---
+
+## 🔐 Permission Assignment
+
+| Resource           | Group            | Permission Level |
+|--------------------|------------------|------------------|
+| Finance Share      | Finance_Users    | Read/Write       |
+| HR Records         | HR_Managers      | Full Control     |
+| Admin Tools        | IT_Admins        | Full Control     |
+| Marketing Share    | Marketing_Users  | Read/Write       |
+
+---
+
+## 🧠 Importance
+
+- Simplifies user permission management
+- Reduces administrative access
+- Amplifies security through controlled access
+- Scales convienently as new users are added
+
+---
+
+## 📸 Screenshots
+*(Insert screenshots of Active Directory Users and Computers showing group memberships)*
+
+---
+
+## 🧾 Notes
+Security groups are critical for applying access control and guarenteeing that users only have access to the resources needed for their role.
