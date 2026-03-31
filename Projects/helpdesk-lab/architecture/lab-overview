@@ -1,98 +1,73 @@
-# SOC Lab Overview
+🛡️ Helpdesk Lab – IT Help Desk Simulation
 
-**Author:** Bryce Falker  
-**Last Updated:** 2026-03-28  
-**Lab Type:** IT Help Desk
-**Environment:** Virtualized Lab (VirtualBox)
+📌 Project Summary
 
----
+This project is a hands-on simulation of an IT help desk environment built using virtual machines.
 
-## 🎯 Purpose of This Lab
-
-This lab is intended to emulate real-world troubleshooting and common IT problems:
-- Software and Application bugs
-- Account and Access Issues
-- Hardware Issues
-- Network and Connectivity problems
-- User errors 
-- Simple security issues
-
-The purpose is to build hands-on experience addressing everyday IT issues within a simulated enterprise environment.
+It showcases how tickets are created, processed, and resolved through troubleshooting.
 
 ---
 
-## 🏗️ Lab Architecture
+🚀 What This Project Shows
 
-**Components:**
-- Windows 10 Client
-- Windows Server
-
- 
-
-**Network Layout:**
-- Internal network (isolated)
-- NAT or host-only networking
+* How to submit a ticket
+* Managing simulated tickets
+* Complete IT troubleshooting steps
+* Document findings and remediation steps
+* How to communicate with a user
 
 ---
 
-## 🧰 Tools Used
+🔍 Key Demonstrations
 
-- Remote Desktop Protocol (RDP)
-- Task Manager 
-- Command Line
-
----
-
-## 🧪 Troubleshooting Scenarios Simulated
-
-### 1. Account Login
-- User cannot log in
-- User locked out of the system
-- New users cannot access shared drives or email
-- Access Denied when opening a file
+* Account Lockouts
+* Hardware Malfunctions
+* Network Misconfigurations
+* Down Communications
+* Application Errors
+* User Mistakes
 
 ---
 
-### 2. Hardware Malfunction
-- Computer is running slow  
-- Device doesn't connect to the Internet  
-- Can't access the printer
-- Monitor doesn't display anything 
+🎬 Demo Workflow
+
+Each scenario follows a real troubleshooting process:
+
+1. Simulate a ticket
+2. Identify the issue
+3. Troubleshoot the issue
+4. Resolve the error
+5. Document findings and resolution
+6. Communicate back with the IT team.
 
 ---
 
-### 3. Network Misconfiguration
-- User cannot access websites but internet is connected  
-- VPN isn't working
+📂 Repository Structure
+
+* architecture/ → Network design and lab setup
+* active-directory/ → OU structure, GPOs, security groups
+* ticketing/ → osTicket setup and integration
 
 ---
 
-### 4. Down Communications 
-- User isn't recieving emails  
-- User cannot send emails
-- Email signature not present
+📖 Documentation
+
+For full lab details, view:
+
+➡️ architecture/lab-overview.md
 
 ---
 
-### 5. Application Errors 
-- Application won't open or crashes on launch 
-- User cannot install software
-- Application Unresponsive  
+🎯 Skills Demonstrated
+
+* IT Troubleshooting
+* Communication and Collaboration
+* Server Configuration and Setup
+* Documentation and reporting
+* Prevention of recurring issues
 
 ---
 
-### 6. User Mistakes
-- User accidentally deletes file  
-- User cannot find saved file 
-- User Interface changes after update 
+📎 Author
 
----
-
-## 🧠 Resolution Strategy
-- Gather information to help in initial assessment
-- Troubleshoot the issue at hand
-- Document the process
-- Escalate the issue further if problems reoccur or resolution isn't made
-
----
- 
+Bryce Falker
