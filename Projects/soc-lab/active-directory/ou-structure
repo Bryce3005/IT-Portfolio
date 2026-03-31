@@ -79,36 +79,36 @@ Policies
 
 FalkerINC.net
 │
-├── ADMINS
-│   ├── Admin Users
-│   └── Admin Groups
+| ── ADMINS
+│   ── Admin Users
+│   ── Admin Groups
 │
-├── Executives
-│   ├── Users
-│   └── Groups
+| ── Executives
+│   ── Users
+│   ── Groups
 │
-├── Finance
-│   ├── Users
-│   ├── Groups
-│   └── Shared Resources
+| ── Finance
+│   ── Users
+│   ── Groups
+│   ── Shared Resources
 │
-├── HR
-│   ├── Users
-│   └── Groups
+| ── HR
+│   ── Users
+│   ── Groups
 │
-├── IT
-│   ├── Users
-│   ├── Groups
-│   └── Service Accounts
+| ── IT
+│   ── Users
+│   ── Groups
+│   ── Service Accounts
 │
-├── Marketing
-│   ├── Users
-│   └── Groups
+| ── Marketing
+│   ── Users
+│   ── Groups
 │
-├── Operations
-│   ├── Users
-│   └── Groups
+| ── Operations
+│   ── Users
+│   ── Groups
 │
 └── Sales
-    ├── Users
-    └── Groups
+    ── Users
+    ── Groups
