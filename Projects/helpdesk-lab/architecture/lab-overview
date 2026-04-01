@@ -1,73 +1,103 @@
-🛡️ Helpdesk Lab – IT Help Desk Simulation
+# SOC Lab Overview
 
-📌 Project Summary
-
-This project is a hands-on simulation of an IT help desk environment built using virtual machines.
-
-It showcases how tickets are created, processed, and resolved through troubleshooting.
-
----
-
-🚀 What This Project Shows
-
-* How to submit a ticket
-* Managing simulated tickets
-* Complete IT troubleshooting steps
-* Document findings and remediation steps
-* How to communicate with a user
+**Author:** Bryce Falker  
+**Last Updated:** 2026-03-28  
+**Lab Type:** IT Help Desk 
+**Environment:** Virtualized Lab (VirtualBox)
 
 ---
 
-🔍 Key Demonstrations
+## 🎯 Purpose of This Lab
 
-* Account Lockouts
-* Hardware Malfunctions
-* Network Misconfigurations
-* Down Communications
-* Application Errors
-* User Mistakes
+This lab is intended to emulate real-world IT issues:
+- Account Lockouts  
+- Hardware Malfunctions 
+- Network Misconfigurations  
+- Down Communications
+- Application Errors
+- User Mistakes
 
----
-
-🎬 Demo Workflow
-
-Each scenario follows a real troubleshooting process:
-
-1. Simulate a ticket
-2. Identify the issue
-3. Troubleshoot the issue
-4. Resolve the error
-5. Document findings and resolution
-6. Communicate back with the IT team.
+The purpose is to build hands-on experience identifying, troubleshooting and resolving IT issues.
 
 ---
 
-📂 Repository Structure
+## 🏗️ Lab Architecture
 
-* architecture/ → Network design and lab setup
-* active-directory/ → OU structure, GPOs, security groups
-* ticketing/ → osTicket setup and integration
+**Components:**
+- **Domain Controller:** Windows 10 Server
+- **Help Desk User:** Windows 10 Client
+- **Ticketing Server:** osTicket 
 
----
+ 
 
-📖 Documentation
-
-For full lab details, view:
-
-➡️ architecture/lab-overview.md
-
----
-
-🎯 Skills Demonstrated
-
-* IT Troubleshooting
-* Communication and Collaboration
-* Server Configuration and Setup
-* Documentation and reporting
-* Prevention of recurring issues
+**Network Layout:**
+- Internal network (isolated)
+- NAT or host-only networking
 
 ---
 
-📎 Author
+## 🧰 Tools Used
 
-Bryce Falker
+- Task Manager
+- Windows Settings
+- PowerShell
+- Command Line
+- Control Panel
+- Remote Desktop Protocol
+
+---
+
+## 🧪 IT issues simulated
+
+### 1. Account & Access Issues
+- User cannot log into their account
+- User locked out of system after multiple failed logins
+- New employee cannot access shared drives or email
+- User reports "Access Denied" when opening a file
+
+---
+
+### 2. System & Device Issues
+- Computer is running slow
+- Device can't connect to Wi-Fi
+- Printer not working
+- Monitor is blank
+
+---
+
+### 3. Network & Connectivity Issues
+- User cannot access websites but internet seems connected
+- VPN not connecting
+
+---
+
+### 4. Email & Communication Issues
+- Not recieving emails
+- Cannot send emails
+- Email signature not showing
+
+---
+
+### 5. Software & Application Issues 
+- Application won't open or crashes
+- Cannot Install software
+- Application is not responding
+
+---
+
+### 6. User Errors
+- User accidentally deleted a file
+- User cannot find a file
+- Changes after an update
+
+---
+
+
+## 🚨 Key Detection Goals
+
+- Identify the IT problem  
+- Troubleshoot it to find out why the problem is occuring  
+- Resolve the issue 
+- Document the solution and findings for future problems  
+
+---
