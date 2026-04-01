@@ -28,7 +28,6 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 - **Help Desk User:** Windows 10 Client
 - **Ticketing Server:** osTicket 
 
- 
 
 **Network Layout:**
 - Internal network (isolated)
@@ -92,8 +91,7 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ---
 
-
-## 🚨 Key Detection Goals
+## 🚨 Key Troubleshooting Goals
 
 - Identify the IT problem  
 - Troubleshoot it to find out why the problem is occuring  
