@@ -53,7 +53,7 @@ Each scenario follows a real troubleshooting process:
 
 For full lab details, view:
 
-➡️ `architecture/lab-overview.md`
+➡️ `Helpdesk/lab-overview.md`
 
 ---
 
