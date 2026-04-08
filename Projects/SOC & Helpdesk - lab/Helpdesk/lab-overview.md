@@ -65,7 +65,7 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 ---
 
 ### 3. Network & Connectivity Issues
-- User cannot access websites but internet seems connected
+- User cannot access internal resources but internet seems connected
 - VPN not connecting
 
 ---
