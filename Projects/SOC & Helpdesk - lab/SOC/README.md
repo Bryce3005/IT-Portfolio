@@ -55,7 +55,7 @@ Each scenario follows a real SOC process:
 
 For full lab details, view:
 
-➡️ `architecture/lab-overview.md`
+➡️ `SOC/lab-overview.md`
 
 ---
 
