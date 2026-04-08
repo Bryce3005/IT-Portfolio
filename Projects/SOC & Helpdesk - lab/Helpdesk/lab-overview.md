@@ -58,7 +58,7 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ### 2. System & Device Issues
 - Computer is running slow
-- Device can't connect to Wi-Fi
+- Device can't connect to Internet
 - Printer not working
 - Monitor is blank
 
