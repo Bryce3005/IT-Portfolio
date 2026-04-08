@@ -1,6 +1,6 @@
 # 🛡️ IT Portfolio
 
-Welcome to my **IT Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis**, **event management** and ** Help Desk troubleshooting**, demonstrating my application of skills in realistic environments.
+Welcome to my **IT Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis**, **event management** and **Help Desk troubleshooting**, demonstrating my application of skills in realistic environments.
 
 ## 📂 About This Portfolio
 
