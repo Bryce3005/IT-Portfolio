@@ -1,6 +1,6 @@
-# 🛡️ Cybersecurity Analyst Portfolio
+# 🛡️ IT Portfolio
 
-Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis**, **event management** and ** IT troubleshooting**, demonstrating my application of skills in realistic environments.
+Welcome to my **IT Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **phishing investigation**, **network analysis**, **endpoint hardening**, **log analysis**, **event management** and ** Help Desk troubleshooting**, demonstrating my application of skills in realistic environments.
 
 ## 📂 About This Portfolio
 
@@ -8,10 +8,11 @@ This portfolio includes projects from various certification programs, including 
 
 - **Wireshark**, **Snort** — for network security and log analysis 
 - **Kali Linux** — for data extraction and additional information 
-- **CommandLine**, **Bash** — for windows data collection and process automation  
+- **Command Line**, **PowerShell** — for windows data collection and process automation  
 - **Virustotal**, **Hybrid Analysis**, **WHOIS**, **VirtualBox** — for malware analysis and sandboxing  
-- **Autopsy** — for analyzing hardrive images  
+- **Autopsy** — for hard drive image analysis  
 - **Splunk**, **Elastic Stack** — for security event monitoring and incident response
+- **Active Directory** - user and account management 
 
 This portfolio is designed to showcase:
 
@@ -26,7 +27,7 @@ This portfolio is designed to showcase:
 - Hardware and software troubleshooting
 - Help Desk ticket management 
 
-The portfolio also covers real life scenarios in **security operations centers (SOC)**, **Alerts**, **Event Triage**, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision making.
+The portfolio also covers real life scenarios in **security operations centers (SOC) and helpdesk positions**, **Alerts**, **Event Triage**, **Troubleshooting** and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision making.
 
 ---
 
@@ -59,4 +60,4 @@ This portfolio is constantly growing. New projects and practical labs are added 
 
 ## 💡 About Me
 
-I am dedicated to expanding my knowledge in cybersecurity through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the complete foundation I have built in cybersecurity and IT, I am dialed in on aiding organizations in mitigating risk and reducing security threats. I’m ready to utilize my skillset to engage in security threats in high stakes environments.
+I am dedicated to expanding my knowledge in IT through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the complete foundation I have built in cybersecurity and IT, I am dialed in on aiding organizations in mitigating risk and reducing security threats. I’m ready to utilize my skillset to engage in security threats and issues in high stakes environments.
