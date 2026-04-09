@@ -60,7 +60,6 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 - Computer is running slow
 - Device can't connect to Internet
 - Printer not working
-- Monitor is blank
 
 ---
 
@@ -70,24 +69,17 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ---
 
-### 4. Email & Communication Issues
-- Not recieving emails
-- Cannot send emails
-- Email signature not showing
 
----
-
-### 5. Software & Application Issues 
+### 4. Software & Application Issues 
 - Application won't open or crashes
 - Cannot Install software
 - Application is not responding
 
 ---
 
-### 6. User Errors
+### 5. User Errors
 - User accidentally deleted a file
 - User cannot find a file
-- Changes after an update
 
 ---
 
