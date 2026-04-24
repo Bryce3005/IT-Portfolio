@@ -1,4 +1,4 @@
-# 🛡️ SOC Lab – Security Operations Center Simulation
+# 🛡️ Splunk Lab – Security Operations Center Simulation
 
 ## 📌 Project Summary
 This project is a hands-on simulation of a Security Operations Center (SOC) environment built using virtual machines.
