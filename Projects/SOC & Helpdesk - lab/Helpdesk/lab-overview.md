@@ -5,6 +5,8 @@
 **Lab Type:** IT Help Desk 
 **Environment:** Virtualized Lab (VirtualBox)
 
+---
+
 ## Purpose of This Lab
 
 This lab is intended to emulate real-world IT issues:
