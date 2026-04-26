@@ -1,4 +1,4 @@
-# SOC Lab Overview
+# Helpdesk Lab Overview
 
 **Author:** Bryce Falker  
 **Last Updated:** 2026-03-28  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Purpose of This Lab
+## Purpose of This Lab
 
 This lab is intended to emulate real-world IT issues:
 - Account Lockouts  
@@ -21,7 +21,7 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ---
 
-## 🏗️ Lab Architecture
+## Lab Architecture
 
 **Components:**
 - **Domain Controller:** Windows 10 Server
@@ -35,7 +35,7 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Task Manager
 - Windows Settings
@@ -46,25 +46,25 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ---
 
-## 🧪 IT issues simulated
+## IT issues simulated
 
 ### 1. Account & Access Issues
 - User cannot log into their account
-- User locked out of system after multiple failed logins
-- New employee cannot access shared drives or email
+- User locked out of the system after multiple failed logins
+- A new employee cannot access shared drives or email
 - User reports "Access Denied" when opening a file
 
 ---
 
 ### 2. System & Device Issues
-- Computer is running slow
-- Device can't connect to Internet
+- The computer is running slowly
+- Device can't connect to the Internet
 - Printer not working
 
 ---
 
 ### 3. Network & Connectivity Issues
-- User cannot access internal resources but internet seems connected
+- The user cannot access internal resources, but the internet seems connected
 - VPN not connecting
 
 ---
@@ -72,21 +72,21 @@ The purpose is to build hands-on experience identifying, troubleshooting and res
 
 ### 4. Software & Application Issues 
 - Application won't open or crashes
-- Cannot Install software
+- Cannot install software
 - Application is not responding
 
 ---
 
 ### 5. User Errors
 - User accidentally deleted a file
-- User cannot find a file
+- The user cannot find a file
 
 ---
 
-## 🚨 Key Troubleshooting Goals
+## Key Troubleshooting Goals
 
 - Identify the IT problem  
-- Troubleshoot it to find out why the problem is occuring  
+- Troubleshoot it to find out why the problem is occurring  
 - Resolve the issue 
 - Document the solution and findings for future problems  
 
