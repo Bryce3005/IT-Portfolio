@@ -1,13 +1,13 @@
-# 🛡️ Splunk Lab – Security Operations Center Simulation
+# Splunk Lab – Security Operations Center Simulation
 
-## 📌 Project Summary
+## Project Summary
 This project is a hands-on simulation of a Security Operations Center (SOC) environment built using virtual machines.
 
 It showcases how security events are created, detected, and managed through a full incident response process.
 
 ---
 
-## 🚀 What This Project Shows
+## What This Project Shows
 
 - Detection of real-world attack techniques  
 - Log ingestion and analysis using Splunk 
@@ -17,7 +17,7 @@ It showcases how security events are created, detected, and managed through a fu
 
 ---
 
-## 🔍 Key Demonstrations
+## Key Demonstrations
 
 - Brute force attack detection  
 - Suspicious PowerShell activity  
@@ -27,7 +27,7 @@ It showcases how security events are created, detected, and managed through a fu
 
 ---
 
-## 🎬 Demo Workflow
+## Demo Workflow
 
 Each scenario follows a real SOC process:
 
@@ -35,12 +35,12 @@ Each scenario follows a real SOC process:
 2. Generate logs  
 3. Detect activity in SIEM  
 4. Trigger alert  
-5. Create ticket  
+5. Create a ticket  
 6. Investigate and resolve  
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `architecture/` → Network design and lab setup  
 - `active-directory/` → OU structure, GPOs, security groups  
@@ -51,7 +51,7 @@ Each scenario follows a real SOC process:
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 For full lab details, view:
 
@@ -59,7 +59,7 @@ For full lab details, view:
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - SIEM implementation  
 - Log analysis and detection engineering  
