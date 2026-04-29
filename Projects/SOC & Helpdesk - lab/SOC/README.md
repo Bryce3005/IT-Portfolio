@@ -55,7 +55,7 @@ Each scenario follows a real SOC process:
 
 For full lab details, view:
 
-➡️ `SOC/lab-overview.md`
+➡️ `SOC/lab-overview.md.`
 
 ---
 
@@ -69,6 +69,6 @@ For full lab details, view:
 
 ---
 
-## 📎 Author
+## Author
 
 Bryce Falker
