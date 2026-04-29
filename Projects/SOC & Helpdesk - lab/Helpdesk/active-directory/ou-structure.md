@@ -1,9 +1,9 @@
 # Organizational Unit (OU) Structure
 
-## 📌 Overview
+## Overview
 This Active Directory simulation is designed using Organizational Units (OUs) to reflect a realistic enterprise organizational structure. Each OU represents a department and is used to enforce role-based access control (RBAC) and Group Policy Objects (GPOs).
 
-## 🧱 OU Infrastructure
+## OU Infrastructure
 
 The domain is seperated into eight different OUs:
 
@@ -21,14 +21,14 @@ Each OU includes:
 - Security groups
 - Department-specific policies
 
-## 🧠 Design Purpose
+## Design Purpose
 
 - Separate users by department
 - Apply specific security rules using GPOs
 - Support least privilege access control
 - Simplify administration and policy enforcement
 
-## 🔐 Security Groups
+## Security Groups
 
 Each OU includes security groups used for:
 - Role-based access control (RBAC)
@@ -56,9 +56,9 @@ There are 18 security groups within this lab:
   - DL_HR_RW
   - DL_Finance_RW
 
-## ⚙️ Group Policy Objects
+## Group Policy Objects
 
-Group Policy Objects (GPOs) are connected to each OU to enforce security policies based on specific department responsibilities.
+Group Policy Objects (GPOs) are linked to each OU to enforce security policies aligned with specific departmental responsibilities.
 
 Policies
 - ADMINS: Enhanced logging and monitoring
@@ -68,14 +68,14 @@ Policies
 - Sales: Prohibited access to Control Panel
 - HR: Prevent access to registry editing tools
 
-## 🔍 Benefits of OU Structure
+## Benefits of OU Structure
 
 - Centralized management of users and policies
 - Flexible design for future incorporation of new groups 
 - Hardened security through policy segmentation
 - Easier troubleshooting and administration
 
-## 🖥️ Hierarchy
+## Hierarchy
 
 FalkerINC.net
 │
