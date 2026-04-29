@@ -1,13 +1,13 @@
-# 🛡️ Helpdesk Lab – IT Help Desk Simulation
+# Helpdesk Lab – IT Help Desk Simulation
 
-## 📌 Project Summary
+## Project Summary
 This project is a hands-on simulation of a IT help desk environment built using virtual machines.
 
 It showcases how tickets are made, proccessed, and resolved through the troubleshooting process.
 
 ---
 
-## 🚀 What This Project Shows
+## What This Project Shows
 
 - How to submit a ticket
 - Managing of simulated tickets  
@@ -17,7 +17,7 @@ It showcases how tickets are made, proccessed, and resolved through the troubles
 
 ---
 
-## 🔍 Key Demonstrations
+## Key Demonstrations
 
 - Account Lockouts  
 - Hardware Malfunctions 
@@ -28,7 +28,7 @@ It showcases how tickets are made, proccessed, and resolved through the troubles
 
 ---
 
-## 🎬 Demo Workflow
+## Demo Workflow
 
 Each scenario follows a real troubleshooting process:
 
@@ -41,7 +41,7 @@ Each scenario follows a real troubleshooting process:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `architecture/` → Network design and lab setup  
 - `active-directory/` → OU structure, GPOs, security groups  
@@ -49,7 +49,7 @@ Each scenario follows a real troubleshooting process:
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 For full lab details, view:
 
@@ -57,7 +57,7 @@ For full lab details, view:
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - IT Troubleshooting  
 - Communication and Collaboration  
