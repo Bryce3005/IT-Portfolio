@@ -1,6 +1,6 @@
 # About Me
 
-I am dedicated to expanding my knowledge in IT through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the comprehensive foundation I have built in cybersecurity and IT, I am dedicated to helping organizations mitigate errors and reduce security threats. I’m ready to apply my skill set to troubleshoot and address security threats in high-stakes environments.
+I am passionate about expanding my knowledge in IT through securing systems, threat analysis, and enhancing enterprise security. With a comprehensive foundation in cybersecurity and IT, I aim to help organizations mitigate risk and reduce security threats. I'm ready to apply my skill set to troubleshoot and address security threats in high-stakes environments.
 
 ---
 
