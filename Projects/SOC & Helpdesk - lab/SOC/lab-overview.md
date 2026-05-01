@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Purpose of This Lab
+## Purpose of This Lab
 
 This lab is intended to emulate real-world attacker behaviors and practice:
 - Threat detection
@@ -20,7 +20,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 🏗️ Lab Architecture
+## Lab Architecture
 
 **Components:**
 - **Attacker Machine:** Kali Linux (simulated adversary)
@@ -39,7 +39,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Splunk (log aggregation & analysis)
 - Sysmon (endpoint telemetry)
@@ -47,7 +47,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 🧪 Attack Scenarios Simulated
+## Attack Scenarios Simulated
 
 ### 1. Credential Access
 - Brute force login attempts  
@@ -71,7 +71,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 - Malicious PowerShell execution  
 - Script obfuscation  
 - Mapped to:
-  - Technique: T1059.001 – Powershell  
+  - Technique: T1059.001 – PowerShell  
 
 ---
 
@@ -83,7 +83,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 | Data Source       | Description |
 |------------------|------------|
@@ -93,7 +93,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 🧠 Detection Strategy
+## Detection Strategy
 
 - Map logs to MITRE ATT&CK techniques
 - Build detections using:
@@ -107,7 +107,7 @@ The purpose is to build hands-on experience locating and addressing adversary ac
 
 ---
 
-## 🚨 Key Detection Goals
+## Key Detection Goals
 
 - Identify brute force attempts early  
 - Detect impossible travel scenarios  
