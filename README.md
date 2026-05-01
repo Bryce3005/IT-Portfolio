@@ -46,7 +46,6 @@ The portfolio also covers real-life scenarios in **security operations centers (
 
 - LinkedIn: [Bryce Falker](www.linkedin.com/in/bryce-falker)
 - Email: brycefalker3005@gmail.com
-- Phone: (832)-348-9780
 
 Always available for questions, productive discussions, learning, and career opportunities!
 
