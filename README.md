@@ -36,7 +36,6 @@ The portfolio also covers real-life scenarios in **security operations centers (
 - **Comptia A+** 
 - **Comptia Network+**
 - **Comptia Security+**
-- **Comptia Network+**
 - **Blue Team Level 1**
 - **Comptia Cysa+** - In progress
   
