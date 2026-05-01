@@ -16,16 +16,6 @@ I am dedicated to expanding my knowledge in IT through **securing systems**, **t
 
 ## About This Portfolio
 
-This portfolio includes projects from various certification programs, including **Comptia**, **Blue-Team-Level 1**, and other platforms with tools such as:
-
-- **Wireshark**, **Snort** — network security and log analysis 
-- **Remote Desktop** — device troubleshooting and resolving  
-- **Command Line**, **PowerShell** — windows data collection and process automation  
-- **Virustotal**, **Hybrid Analysis**, **WHOIS**, **VirtualBox** — malware analysis and sandboxing  
-- **Autopsy** — hard drive image analysis  
-- **Splunk**, **Elastic Stack** — security event monitoring and incident response
-- **Active Directory** - user and account management 
-
 This portfolio is designed to showcase:
 
 - Phishing Analysis 
@@ -39,7 +29,7 @@ This portfolio is designed to showcase:
 - Hardware and software troubleshooting
 - Ticket management and response 
 
-The portfolio also covers real-life scenarios in **security operations centers (SOC) and helpdesk positions**, **Alerts**, **Event Triage**, **Troubleshooting**, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision-making.
+The portfolio also covers real-life scenarios in **security operations centers (SOC) and helpdesk positions**, **Alerts**, Event Triage, Troubleshooting, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision-making.
  
 ---
 
