@@ -1,18 +1,18 @@
 # New User Created
 
-## 📌 Description
+## Description
 Detects new users by looking at newly created accounts in a short time span
 
-## 🧠 MITRE ATT&CK Mapping
+## MITRE ATT&CK Mapping
 - Technique: T1136 – Create Account
 
-## 📊 Data Source
+## Data Source
 - Windows Security Event Logs
 - Event ID: 4720 (New user account)
 
-## 🔍 SPL Query
+## SPL Query
 index=* EventCode=4720
 
-## 🚨 Alert Logic
+## Alert Logic
 - Trigger Condition: More than 0 created users within 5 minutes
 - Alert type: Scheduled (runs every five minutes) 
