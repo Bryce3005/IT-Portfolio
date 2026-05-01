@@ -1,6 +1,18 @@
-# IT Portfolio
+# About Me
 
-Welcome to my **IT Portfolio**! This repository showcases projects and labs from certifications and additional studies. This portfolio highlights skills in **troubleshooting**, **ticket management**, **security operations**, **log analysis**, **event management**, and **alert triage**, demonstrating my application of skills in realistic environments.
+I am dedicated to expanding my knowledge in IT through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the comprehensive foundation I have built in cybersecurity and IT, I am dedicated to helping organizations mitigate errors and reduce security threats. I’m ready to apply my skill set to troubleshoot and address security threats in high-stakes environments.
+
+---
+
+## Learning & Certifications
+
+- **Comptia A+** 
+- **Comptia Network+**
+- **Comptia Security+**
+- **Blue Team Level 1**
+- **Comptia Cysa+** - In progress
+
+---
 
 ## About This Portfolio
 
@@ -28,17 +40,7 @@ This portfolio is designed to showcase:
 - Ticket management and response 
 
 The portfolio also covers real-life scenarios in **security operations centers (SOC) and helpdesk positions**, **Alerts**, **Event Triage**, **Troubleshooting**, and more. Each project includes **documentation**, **screenshots**, and **brief reports** to highlight my thought process and decision-making.
-
----
-
-## Learning & Certifications
-
-- **Comptia A+** 
-- **Comptia Network+**
-- **Comptia Security+**
-- **Blue Team Level 1**
-- **Comptia Cysa+** - In progress
-  
+ 
 ---
 
 ## Contact
@@ -55,7 +57,3 @@ Always available for questions, productive discussions, learning, and career opp
 This portfolio is constantly growing. New projects and practical labs are added every month as I advance my knowledge and skill set in the IT field. Stay tuned for more advanced projects beyond troubleshooting and blue teaming, such as **pen testing**, **cloud security**, **OSINT**, **scripting**, and **automation**.
 
 ---
-
-## About Me
-
-I am dedicated to expanding my knowledge in IT through **securing systems**, **threat analysis**, and **enhancing enterprise security**. With the comprehensive foundation I have built in cybersecurity and IT, I am dedicated to helping organizations mitigate errors and reduce security threats. I’m ready to utilize my skill set to engage in troubleshooting and address security threats in high-stakes environments.
